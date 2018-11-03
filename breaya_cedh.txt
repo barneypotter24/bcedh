@@ -1,0 +1,144 @@
+Breya cEDH deck notes.
+
+Win cons: 102 cards total
+
+	Commander:
+		
+		Breya, Etherium Shaper
+
+	Dramatic Scepter (4+outlet) [6 cards]
+
+		Goal is to land Isochron scepter with Dramatic Reversal imprinted to generate
+		  infinite mana and infinite storm.
+
+		Requires:
+		Dramatic Reversal
+		Isochron Scepter (4 colorless total)
+		3 mana worth of mana rocks, preferably that tap for any color
+
+		Support cards:
+`		Prophetic Prism
+		Walking Ballista (for the case where I cannot make all 4 colors)
+		Merchant Scroll (add 1U to combo total, finds DR)
+		Whir of Invention (add UUU to combo total, finds IS)
+		Aetherflux Reservoir
+
+	Worldgorger Dragon (1B+creature in graveyard) [13 cards]
+
+		Requires:
+		Animate Dead/Dance of the Dead/Necromancy (add 1 for Necromancy)
+		Worldgorger Dragon (must be in graveyard)
+
+		Support cards:
+		Entomb
+		Izzet Charm
+		Faithless Looting
+		Windfall
+		Frantic Search
+		Wheel of Fortune
+		Sunscorched Desert (removes requirement for correct lands)
+		Buried Alive (add 2B, grab WGD+another creature+anything)
+		Careful Study (U)
+
+	Laboratory Maniac (2U+draw from empty library) [12 cards]
+
+		Requires:
+		Laboratory Maniac
+		
+		Support cards:
+		Cantrips (that haven't been listed):
+		Brainstorm, Opt, Ponder, Thought Scour, Preordain  (add U)
+		Gitaxian Probe (add U or 2 life)
+		Predict (add 1U)
+		Night's Whisper (add 1B, 2 life)
+		
+		Library emptiers:
+		Tainted Pact (add 1B)
+		Demonic Consultation (add B) 
+		
+
+Support cards:
+
+	Getting to the combos: [15 cards]
+
+		Ad Nauseam
+		Doomsday
+		Gush
+		Gamble
+		Demonic Tutor
+		Vampiric Tutor
+		Mystical Tutor
+		Enlightened Tutor
+		Notion Thief
+		Thirst for Knowledge
+		Winds of Change
+		Yawgmoth's Will
+		Sensei's Divining Top
+		Mystic Remora
+		Lim Dul's Vault
+
+		
+	Protection: [14 cards]
+
+		Swan Song
+		Mana Drain
+		Pact of Negation
+		Silence
+		Pull from Eternity
+		Flusterstorm
+		Angel's Grace
+		Mental Misstep
+		Stifle
+		Vandalblast
+		Cyclonic Rift
+		Spell Pierce
+		Red Elemental Blast
+		Dispel
+		
+
+	Mana: [11 nonland + 29 land = 40 mana sources]
+		
+		Cabal Ritual +1(or +3 w/ Threshold)
+		Dark Ritual +2
+		Mana Crypt +2
+		Mox Opal +1
+		Mana Vault +3
+		Lotus Petal +1
+		Mox Diamond +1
+		Chrome Mox +1
+		Sol Ring +1
+		Talisman of Progress -1
+		Talisman of Dominance -1
+
+		Underground Sea
+		Volcanic Island
+		Scrubland
+		Plateau
+		Tundra
+		Watery Grave
+		Steam Vents
+		Godless Shrine
+		Sacred Foundry
+		Wooded Foothills
+		Polluted Delta
+		Bloodstained Mire
+		Flooded Strand
+		Windswept Heath
+		Sea of Clouds
+		Luxury Suite
+		Morphic Pool
+		Reflecting Pool
+		Exotic Orchard
+		Command Tower
+		City of Brass
+		Ancient Den
+		Seat of the Synod
+		Great Furnace
+		Vault of Whispers
+		Plains
+		Swamp
+		Mountain
+		Island
+
+Notes: Playtested online without the Mountain
+		
